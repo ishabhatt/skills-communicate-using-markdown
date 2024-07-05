@@ -6,3 +6,7 @@
 ### Heading 4
 #### Heading 5
 ##### Heading 6
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
